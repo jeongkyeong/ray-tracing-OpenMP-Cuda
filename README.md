@@ -42,5 +42,5 @@
 
 
  <br/>
- ## Author
+ ## Author <br/>
  JeongKyong Kang, JungYun Eum
