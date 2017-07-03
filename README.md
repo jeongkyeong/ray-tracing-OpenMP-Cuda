@@ -19,7 +19,7 @@
  |             |Thread 2|Thread 4|Thread 8|Thread 16|
  |:-----------:|:------:|:------:|:------:|:-------:|
  |openmp_ray.c |1.993 sec|1.019 sec|1.007 sec|1.035 sec|
- |cuda_ray.cu  |0.011 sec||| 
+ |cuda_ray.cu  |0.011 sec| 
 
   
  2nd Trial: 
@@ -27,7 +27,7 @@
  |             |Thread 2|Thread 4|Thread 8|Thread 16|
  |:-----------:|:------:|:------:|:------:|:-------:|
  |openmp_ray.c |1.943 sec|1.006 sec|1.009 sec|1.005 sec|
- |cuda_ray.cu  |0.012 sec|||
+ |cuda_ray.cu  |0.012 sec|
 
 
  3rd Trial: 
@@ -35,7 +35,7 @@
  |             |Thread 2|Thread 4|Thread 8|Thread 16|
  |:-----------:|:------:|:------:|:------:|:-------:|
  |openmp_ray.c |1.943 sec|1.010 sec|1.021 sec|1.067 sec|
- |cuda_ray.cu  |0.012 sec|||
+ |cuda_ray.cu  |0.012 sec|
 
 
  ![graph](https://github.com/jeongkyeong/ray-tracing-OpenMP-and-Cuda/blob/master/graph.png)
