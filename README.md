@@ -10,7 +10,7 @@
  
  ## Screenshots
  Ray Tracing
- ![Screenshot](https://github.com/jeongkyeong/ray-tracing-OpenMP-and-Cuda/blob/master/Screenshot.png){.alignleft}
+ ![Screenshot](https://github.com/jeongkyeong/ray-tracing-OpenMP-and-Cuda/blob/master/Screenshot.png)
  
  ## Results
  <br/>
