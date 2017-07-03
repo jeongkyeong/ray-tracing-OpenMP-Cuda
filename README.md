@@ -41,6 +41,6 @@
  ![graph](https://github.com/jeongkyeong/ray-tracing-OpenMP-and-Cuda/blob/master/graph.png)
 
 
- <br/>
- ## Author <br/>
+
+ ## Author 
  JeongKyong Kang, JungYun Eum
