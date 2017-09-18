@@ -1,5 +1,5 @@
 # Ray Tracing using OpenMP and Cuda
- Implementing two versions of Ray-Tracing that utilizes CUDA and OpenMP, respectively. 
+ Implementing two versions of Ray-Tracing, OpenMP and Cuda. 
  
  
  ## Environment
