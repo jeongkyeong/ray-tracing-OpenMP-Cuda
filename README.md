@@ -43,4 +43,4 @@
 
 
  ## Collaborators 
- JeongKyeong Kang, JungYun Eum
+ JeongKyeong Kang
